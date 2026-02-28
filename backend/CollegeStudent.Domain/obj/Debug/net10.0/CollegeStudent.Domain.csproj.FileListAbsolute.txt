@@ -1,0 +1,11 @@
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Domain\bin\Debug\net10.0\CollegeStudent.Domain.deps.json
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Domain\bin\Debug\net10.0\CollegeStudent.Domain.dll
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Domain\bin\Debug\net10.0\CollegeStudent.Domain.pdb
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Domain\obj\Debug\net10.0\CollegeStudent.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Domain\obj\Debug\net10.0\CollegeStudent.Domain.AssemblyInfoInputs.cache
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Domain\obj\Debug\net10.0\CollegeStudent.Domain.AssemblyInfo.cs
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Domain\obj\Debug\net10.0\CollegeStudent.Domain.csproj.CoreCompileInputs.cache
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Domain\obj\Debug\net10.0\CollegeStudent.Domain.dll
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Domain\obj\Debug\net10.0\refint\CollegeStudent.Domain.dll
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Domain\obj\Debug\net10.0\CollegeStudent.Domain.pdb
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Domain\obj\Debug\net10.0\ref\CollegeStudent.Domain.dll

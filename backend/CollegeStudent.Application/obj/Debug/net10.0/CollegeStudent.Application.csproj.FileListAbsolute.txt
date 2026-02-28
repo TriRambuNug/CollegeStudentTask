@@ -1,0 +1,15 @@
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Application\obj\Debug\net10.0\CollegeStudent.Application.csproj.AssemblyReference.cache
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Application\obj\Debug\net10.0\CollegeStudent.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Application\obj\Debug\net10.0\CollegeStudent.Application.AssemblyInfoInputs.cache
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Application\obj\Debug\net10.0\CollegeStudent.Application.AssemblyInfo.cs
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Application\obj\Debug\net10.0\CollegeStudent.Application.csproj.CoreCompileInputs.cache
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Application\bin\Debug\net10.0\CollegeStudent.Application.deps.json
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Application\bin\Debug\net10.0\CollegeStudent.Application.dll
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Application\bin\Debug\net10.0\CollegeStudent.Application.pdb
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Application\bin\Debug\net10.0\CollegeStudent.Domain.dll
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Application\bin\Debug\net10.0\CollegeStudent.Domain.pdb
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Application\obj\Debug\net10.0\CollegeS.ADE342DB.Up2Date
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Application\obj\Debug\net10.0\CollegeStudent.Application.dll
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Application\obj\Debug\net10.0\refint\CollegeStudent.Application.dll
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Application\obj\Debug\net10.0\CollegeStudent.Application.pdb
+C:\Users\trnug\Downloads\CollegeStudent\backend\CollegeStudent.Application\obj\Debug\net10.0\ref\CollegeStudent.Application.dll
