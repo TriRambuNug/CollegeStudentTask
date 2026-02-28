@@ -131,27 +131,6 @@ Development connection string file:
 
 Default values match `docker-compose.yml`.
 
-## Push to GitHub
-
-If this is a new repository:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/<username>/<repo>.git
-git push -u origin main
-```
-
-If repository already exists:
-
-```bash
-git add .
-git commit -m "Update README"
-git push
-```
-
 ## Troubleshooting
 
 - **Port 5432 already used**: change port mapping in `docker-compose.yml`.
