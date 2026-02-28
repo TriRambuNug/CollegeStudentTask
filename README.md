@@ -1,6 +1,6 @@
 # CollegeStudent
 
-Full-stack student management app with:
+Full-stack student management website with:
 
 - **Backend**: ASP.NET Core Web API (`.NET 10`)
 - **Frontend**: React + TypeScript + Vite
@@ -9,7 +9,6 @@ Full-stack student management app with:
 ## Features
 
 - List all students
-- Get student detail by ID (`id`)
 - Create student
 - Update student
 - Delete student
